@@ -8,9 +8,9 @@
     --image-gap: 5px;
     --image-border-radius: calc(var(--border-radius) - var(--image-gap));
 
-    --color-dark: #f18e00;
-    --color-light: #fef3c4;
-    --color-light-hover: #fff6d5;
+    --color-dark: #3159a1;
+    --color-light: #cfe7ff;
+    --color-light-hover: #e0f0ff;
     --color-extra-light: #f5f5f5;
 }
 
@@ -152,6 +152,7 @@ hr {
     font-weight: bold;
     margin: auto;
     text-transform: uppercase;
+    color: var(--color-dark);
     flex: 1;
     text-align: center;
 }
