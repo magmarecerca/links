@@ -20,7 +20,8 @@
 
 body {
     font-family: 'montserrat', sans-serif;
-    margin: 30px;
+    margin: 0;
+    padding: 30px;
     overflow-x: hidden;
     min-height: 100vh;
 
