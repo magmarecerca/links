@@ -8,9 +8,9 @@
     --image-gap: 5px;
     --image-border-radius: calc(var(--border-radius) - var(--image-gap));
 
-    --color-dark: #3159a1;
-    --color-light: #cfe7ff;
-    --color-light-hover: #e0f0ff;
+    --color-dark: #962ba3;
+    --color-light: #F9E8FC;
+    --color-light-hover: #fce5ff;
     --color-extra-light: #f5f5f5;
 }
 
